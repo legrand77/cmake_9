@@ -1,0 +1,3 @@
+C:/Users/Ариконс User/Desktop/CMake_9/CMake_9_2/out/build/x64-Debug/CMakeFiles/cmake_second.dir
+C:/Users/Ариконс User/Desktop/CMake_9/CMake_9_2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ариконс User/Desktop/CMake_9/CMake_9_2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(my_second_cmake_project)
+add_executable(cmake_second home_work_2_5_3.cpp equilateralTriangle.h equilateralTriangleme.cpp figura.cpp figura.h isoscelesTriangle.cpp isoscelesTriangle.h parallelogram.cpp parallelogram.h print_info.cpp print_info.h quadrilateral.cpp quadrilateral.h rectangle.cpp rectangle.h rhomb.cpp rhomb.h square.cpp square.cpp straighTriangle.cpp straighTriangle.h triangle.cpp triangle.h)
